@@ -1,0 +1,22 @@
+my-voting-project/
+├── backend/
+│   ├── Cargo.toml
+│   ├── src/
+│   │   ├── main.rs
+│   │   ├── handlers.rs
+│   │   ├── model.rs
+│   │   └── services.rs
+├── frontend/
+│   ├── Cargo.toml
+│   ├── src/
+│   │   ├── main.rs
+│   │   ├── app.rs
+│   │   └── components/
+│   │       ├── account_form.rs
+│   │       ├── proposal_form.rs
+│   │       ├── vote_form.rs
+│   │       ├── reward_display.rs
+├── Move/
+│   ├── Voting.move
+├── README.md
+└── .gitignore
